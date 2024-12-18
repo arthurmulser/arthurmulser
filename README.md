@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Arthur
+# Olá! 🤠 Eu sou Arthur
 
 ---
 
