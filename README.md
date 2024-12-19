@@ -1,7 +1,5 @@
 # Olá! 🤠 Eu sou Arthur
 
-Seja bem-vindo ao meu perfil no GitHub! Aqui você encontra projetos e contribuições em várias áreas de tecnologia que estou explorando.
-
 ---
 
 ## 📫 Contato
