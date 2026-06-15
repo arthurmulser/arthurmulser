@@ -10,7 +10,7 @@
 
 ---
 
-## Estrutura de Pastas da Documentação - 20260605
+## Estrutura de Pastas da Documentação - 20260615
 
 ```
 
@@ -18,7 +18,8 @@ docs/
 ├── index.md                                # here;                                         
 ├── books/                                  # um .md por livro;
 ├── bpo/                                    # bpo_streamlit (arquivos de documentação);
-├── database/                               #
+├── database/ 
+│   ├── procedures_sgd/                     # um .md por procedure sgd;                              #
 │   ├── tables/                             # um .md por tabela lars;
 │   ├── tables_sgd/                         # um .md por tabela sgd;
 │   ├── updates/                            # um .md por sistema;
