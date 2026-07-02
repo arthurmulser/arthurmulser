@@ -43,10 +43,14 @@ docs/
 
 ## Estrutura de Pastas de Nuvem - 20260702
 
+```
+
 ├── g@a/          
 ├── g@s/ 
 ├── g@v/ 
 ├── h@a/ 
 ├── l@a/ 
+
+```
 
 ---
