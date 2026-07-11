@@ -10,7 +10,7 @@
 
 ---
 
-## Estrutura de Pastas da Documentação - 20260615
+## Estrutura de Pastas da Documentação - 20260711
 
 ```
 
@@ -30,6 +30,7 @@ docs/
 ├── iaa/                                    # um .md por módulo da pós;
 ├── lars/                                   # lars (arquivos de documentação);
 ├── mars62/                                 # mars62 (arquivos de documentação);
+│   └── scriptcase_blank_api_flutter/       # arquivos .md que descrevem o funcionamento da api scriptcase;
 ├── morro_alto/                             # chácara;
 ├── sgd/                                    # sgd (arquivos de documentação);
 ├── working_with_ai_11/                     # chamados lars;
