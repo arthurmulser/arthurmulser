@@ -10,7 +10,7 @@
 
 ---
 
-## Estrutura de Pastas da Documentação - 20260711
+## Estrutura de Pastas da Documentação
 
 ```
 
@@ -33,6 +33,7 @@ docs/
 │   └── scriptcase_blank_api_flutter/       # arquivos .md que descrevem o funcionamento da api scriptcase;
 ├── morro_alto/                             # chácara;
 ├── sgd/                                    # sgd (arquivos de documentação);
+├── studying/                               # esquemas de estudos;
 ├── working_with_ai_11/                     # chamados lars;
 ├── working_with_ai_bpo/                    # chamados bpo;
 ├── working_with_ai_general/                # atividades gerais;
@@ -42,7 +43,7 @@ docs/
 
 ---
 
-## Estrutura de Pastas de Nuvem - 20260702
+## Estrutura de Pastas de Nuvem
 
 ```
 
@@ -50,7 +51,7 @@ docs/
 ├── g@s/ 
 ├── g@v/ 
 ├── h@a/ 
-└── l@a/
+└── l@a/ 
 
 ```
 
