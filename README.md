@@ -59,10 +59,14 @@ docs/
 
 ## Estrutura de Partições do Notebook HP
 
+```
+
 |── /                                        # a, 68,7 GB;  
 ├── /dev/sda2                                # w7, 274,8 GB;  
 ├── /dev/sda4                                # server, 64,3 GB;
 └── /dev/sda5                                # btc, 62,2 GB;
+
+```
 
 ---
 
