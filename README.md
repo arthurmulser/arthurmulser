@@ -70,4 +70,21 @@ docs/
 
 ---
 
+## Discos Removíveis
+
+```
+
+|── files_20260727                           # 8 gb, bkp, ok;
+├── files_20260726                           # 32 gb, bkp, ok;
+├── files_20260721                           # 8 gb, oripeflix, ok;
+├── files_20260717                           # 16 gb, bkp, ok;
+├── files_20260716                           # 1 gb, ok;
+├── files_20260712                           # 8 gb, bkp, ok;
+├── ubuntu 26                                # 64 gb, ok;  
+└── segate                                   # 1 tb, ok;  
+
+```
+
+---
+
 
